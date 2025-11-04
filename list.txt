@@ -10,4 +10,4 @@ tomaten
 gurkerl
 paprika
 salat
-nutella
+nutella + bananen
